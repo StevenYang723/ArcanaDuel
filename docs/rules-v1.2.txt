@@ -1,0 +1,1539 @@
+PASS: 63 distinct v0.2 card definitions
+PASS: 63 unique card names
+PASS: 126 nonempty card effects
+PASS: draft actor 0
+PASS: draft rejects wrong actor 0
+PASS: draft accepts step 0
+PASS: draft actor 1
+PASS: draft rejects wrong actor 1
+PASS: draft accepts step 1
+PASS: draft actor 2
+PASS: draft rejects wrong actor 2
+PASS: draft accepts step 2
+PASS: draft actor 3
+PASS: draft rejects wrong actor 3
+PASS: draft accepts step 3
+PASS: draft actor 4
+PASS: draft rejects wrong actor 4
+PASS: draft accepts step 4
+PASS: draft actor 5
+PASS: draft rejects wrong actor 5
+PASS: draft accepts step 5
+PASS: draft actor 6
+PASS: draft rejects wrong actor 6
+PASS: draft accepts step 6
+PASS: draft actor 7
+PASS: draft rejects wrong actor 7
+PASS: draft accepts step 7
+PASS: draft actor 8
+PASS: draft rejects wrong actor 8
+PASS: draft accepts step 8
+PASS: draft actor 9
+PASS: draft rejects wrong actor 9
+PASS: draft accepts step 9
+PASS: draft enters battle after four bans
+PASS: 21 cells and ten spaces to each goal
+PASS: four decks including Fool, 20 cards, opening five
+PASS: exclusive major picks
+PASS: AABBC in every drafted deck
+PASS: end turn
+PASS: bank cap and start draw overflow
+PASS: stale revision rejected
+PASS: 愚者 0 up prepared=False completes
+PASS: 愚者 0 up prepared=False card conservation
+PASS: 愚者 0 up prepared=False resource bounds
+PASS: 愚者 0 up prepared=False resolving card enters discard
+PASS: 愚者 0 up prepared=True completes
+PASS: 愚者 0 up prepared=True card conservation
+PASS: 愚者 0 up prepared=True resource bounds
+PASS: 愚者 0 up prepared=True resolving card enters discard
+PASS: 愚者 0 reversed prepared=False completes
+PASS: 愚者 0 reversed prepared=False card conservation
+PASS: 愚者 0 reversed prepared=False resource bounds
+PASS: 愚者 0 reversed prepared=False resolving card enters discard
+PASS: 愚者 0 reversed prepared=True completes
+PASS: 愚者 0 reversed prepared=True card conservation
+PASS: 愚者 0 reversed prepared=True resource bounds
+PASS: 愚者 0 reversed prepared=True resolving card enters discard
+PASS: 愚者 1 up prepared=False completes
+PASS: 愚者 1 up prepared=False card conservation
+PASS: 愚者 1 up prepared=False resource bounds
+PASS: 愚者 1 up prepared=False resolving card enters discard
+PASS: 愚者 1 up prepared=True completes
+PASS: 愚者 1 up prepared=True card conservation
+PASS: 愚者 1 up prepared=True resource bounds
+PASS: 愚者 1 up prepared=True resolving card enters discard
+PASS: 愚者 1 reversed prepared=False completes
+PASS: 愚者 1 reversed prepared=False card conservation
+PASS: 愚者 1 reversed prepared=False resource bounds
+PASS: 愚者 1 reversed prepared=False resolving card enters discard
+PASS: 愚者 1 reversed prepared=True completes
+PASS: 愚者 1 reversed prepared=True card conservation
+PASS: 愚者 1 reversed prepared=True resource bounds
+PASS: 愚者 1 reversed prepared=True resolving card enters discard
+PASS: 愚者 2 up prepared=False completes
+PASS: 愚者 2 up prepared=False card conservation
+PASS: 愚者 2 up prepared=False resource bounds
+PASS: 愚者 2 up prepared=False resolving card enters discard
+PASS: 愚者 2 up prepared=True completes
+PASS: 愚者 2 up prepared=True card conservation
+PASS: 愚者 2 up prepared=True resource bounds
+PASS: 愚者 2 up prepared=True resolving card enters discard
+PASS: 愚者 2 reversed prepared=False completes
+PASS: 愚者 2 reversed prepared=False card conservation
+PASS: 愚者 2 reversed prepared=False resource bounds
+PASS: 愚者 2 reversed prepared=False resolving card enters discard
+PASS: 愚者 2 reversed prepared=True completes
+PASS: 愚者 2 reversed prepared=True card conservation
+PASS: 愚者 2 reversed prepared=True resource bounds
+PASS: 愚者 2 reversed prepared=True resolving card enters discard
+PASS: 魔术师 0 up prepared=False completes
+PASS: 魔术师 0 up prepared=False card conservation
+PASS: 魔术师 0 up prepared=False resource bounds
+PASS: 魔术师 0 up prepared=False resolving card enters discard
+PASS: 魔术师 0 up prepared=True completes
+PASS: 魔术师 0 up prepared=True card conservation
+PASS: 魔术师 0 up prepared=True resource bounds
+PASS: 魔术师 0 up prepared=True resolving card enters discard
+PASS: 魔术师 0 reversed prepared=False completes
+PASS: 魔术师 0 reversed prepared=False card conservation
+PASS: 魔术师 0 reversed prepared=False resource bounds
+PASS: 魔术师 0 reversed prepared=False resolving card enters discard
+PASS: 魔术师 0 reversed prepared=True completes
+PASS: 魔术师 0 reversed prepared=True card conservation
+PASS: 魔术师 0 reversed prepared=True resource bounds
+PASS: 魔术师 0 reversed prepared=True resolving card enters discard
+PASS: 魔术师 1 up prepared=False completes
+PASS: 魔术师 1 up prepared=False card conservation
+PASS: 魔术师 1 up prepared=False resource bounds
+PASS: 魔术师 1 up prepared=False resolving card enters discard
+PASS: 魔术师 1 up prepared=True completes
+PASS: 魔术师 1 up prepared=True card conservation
+PASS: 魔术师 1 up prepared=True resource bounds
+PASS: 魔术师 1 up prepared=True resolving card enters discard
+PASS: 魔术师 1 reversed prepared=False completes
+PASS: 魔术师 1 reversed prepared=False card conservation
+PASS: 魔术师 1 reversed prepared=False resource bounds
+PASS: 魔术师 1 reversed prepared=False resolving card enters discard
+PASS: 魔术师 1 reversed prepared=True completes
+PASS: 魔术师 1 reversed prepared=True card conservation
+PASS: 魔术师 1 reversed prepared=True resource bounds
+PASS: 魔术师 1 reversed prepared=True resolving card enters discard
+PASS: 魔术师 2 up prepared=False completes
+PASS: 魔术师 2 up prepared=False card conservation
+PASS: 魔术师 2 up prepared=False resource bounds
+PASS: 魔术师 2 up prepared=False resolving card enters discard
+PASS: 魔术师 2 up prepared=True completes
+PASS: 魔术师 2 up prepared=True card conservation
+PASS: 魔术师 2 up prepared=True resource bounds
+PASS: 魔术师 2 up prepared=True resolving card enters discard
+PASS: 魔术师 2 reversed prepared=False completes
+PASS: 魔术师 2 reversed prepared=False card conservation
+PASS: 魔术师 2 reversed prepared=False resource bounds
+PASS: 魔术师 2 reversed prepared=False resolving card enters discard
+PASS: 魔术师 2 reversed prepared=True completes
+PASS: 魔术师 2 reversed prepared=True card conservation
+PASS: 魔术师 2 reversed prepared=True resource bounds
+PASS: 魔术师 2 reversed prepared=True resolving card enters discard
+PASS: 女祭司 0 up prepared=False completes
+PASS: 女祭司 0 up prepared=False card conservation
+PASS: 女祭司 0 up prepared=False resource bounds
+PASS: 女祭司 0 up prepared=False resolving card enters discard
+PASS: 女祭司 0 up prepared=True completes
+PASS: 女祭司 0 up prepared=True card conservation
+PASS: 女祭司 0 up prepared=True resource bounds
+PASS: 女祭司 0 up prepared=True resolving card enters discard
+PASS: 女祭司 0 reversed prepared=False completes
+PASS: 女祭司 0 reversed prepared=False card conservation
+PASS: 女祭司 0 reversed prepared=False resource bounds
+PASS: 女祭司 0 reversed prepared=False resolving card enters discard
+PASS: 女祭司 0 reversed prepared=True completes
+PASS: 女祭司 0 reversed prepared=True card conservation
+PASS: 女祭司 0 reversed prepared=True resource bounds
+PASS: 女祭司 0 reversed prepared=True resolving card enters discard
+PASS: 女祭司 1 up prepared=False completes
+PASS: 女祭司 1 up prepared=False card conservation
+PASS: 女祭司 1 up prepared=False resource bounds
+PASS: 女祭司 1 up prepared=False resolving card enters discard
+PASS: 女祭司 1 up prepared=True completes
+PASS: 女祭司 1 up prepared=True card conservation
+PASS: 女祭司 1 up prepared=True resource bounds
+PASS: 女祭司 1 up prepared=True resolving card enters discard
+PASS: 女祭司 1 reversed prepared=False completes
+PASS: 女祭司 1 reversed prepared=False card conservation
+PASS: 女祭司 1 reversed prepared=False resource bounds
+PASS: 女祭司 1 reversed prepared=False resolving card enters discard
+PASS: 女祭司 1 reversed prepared=True completes
+PASS: 女祭司 1 reversed prepared=True card conservation
+PASS: 女祭司 1 reversed prepared=True resource bounds
+PASS: 女祭司 1 reversed prepared=True resolving card enters discard
+PASS: 女祭司 2 up prepared=False completes
+PASS: 女祭司 2 up prepared=False card conservation
+PASS: 女祭司 2 up prepared=False resource bounds
+PASS: 女祭司 2 up prepared=False resolving card enters discard
+PASS: 女祭司 2 up prepared=True completes
+PASS: 女祭司 2 up prepared=True card conservation
+PASS: 女祭司 2 up prepared=True resource bounds
+PASS: 女祭司 2 up prepared=True resolving card enters discard
+PASS: 女祭司 2 reversed prepared=False completes
+PASS: 女祭司 2 reversed prepared=False card conservation
+PASS: 女祭司 2 reversed prepared=False resource bounds
+PASS: 女祭司 2 reversed prepared=False resolving card enters discard
+PASS: 女祭司 2 reversed prepared=True completes
+PASS: 女祭司 2 reversed prepared=True card conservation
+PASS: 女祭司 2 reversed prepared=True resource bounds
+PASS: 女祭司 2 reversed prepared=True resolving card enters discard
+PASS: 皇后 0 up prepared=False completes
+PASS: 皇后 0 up prepared=False card conservation
+PASS: 皇后 0 up prepared=False resource bounds
+PASS: 皇后 0 up prepared=False resolving card enters discard
+PASS: 皇后 0 up prepared=True completes
+PASS: 皇后 0 up prepared=True card conservation
+PASS: 皇后 0 up prepared=True resource bounds
+PASS: 皇后 0 up prepared=True resolving card enters discard
+PASS: 皇后 0 reversed prepared=False completes
+PASS: 皇后 0 reversed prepared=False card conservation
+PASS: 皇后 0 reversed prepared=False resource bounds
+PASS: 皇后 0 reversed prepared=False resolving card enters discard
+PASS: 皇后 0 reversed prepared=True completes
+PASS: 皇后 0 reversed prepared=True card conservation
+PASS: 皇后 0 reversed prepared=True resource bounds
+PASS: 皇后 0 reversed prepared=True resolving card enters discard
+PASS: 皇后 1 up prepared=False completes
+PASS: 皇后 1 up prepared=False card conservation
+PASS: 皇后 1 up prepared=False resource bounds
+PASS: 皇后 1 up prepared=False resolving card enters discard
+PASS: 皇后 1 up prepared=True completes
+PASS: 皇后 1 up prepared=True card conservation
+PASS: 皇后 1 up prepared=True resource bounds
+PASS: 皇后 1 up prepared=True resolving card enters discard
+PASS: 皇后 1 reversed prepared=False completes
+PASS: 皇后 1 reversed prepared=False card conservation
+PASS: 皇后 1 reversed prepared=False resource bounds
+PASS: 皇后 1 reversed prepared=False resolving card enters discard
+PASS: 皇后 1 reversed prepared=True completes
+PASS: 皇后 1 reversed prepared=True card conservation
+PASS: 皇后 1 reversed prepared=True resource bounds
+PASS: 皇后 1 reversed prepared=True resolving card enters discard
+PASS: 皇后 2 up prepared=False completes
+PASS: 皇后 2 up prepared=False card conservation
+PASS: 皇后 2 up prepared=False resource bounds
+PASS: 皇后 2 up prepared=False resolving card enters discard
+PASS: 皇后 2 up prepared=True completes
+PASS: 皇后 2 up prepared=True card conservation
+PASS: 皇后 2 up prepared=True resource bounds
+PASS: 皇后 2 up prepared=True resolving card enters discard
+PASS: 皇后 2 reversed prepared=False completes
+PASS: 皇后 2 reversed prepared=False card conservation
+PASS: 皇后 2 reversed prepared=False resource bounds
+PASS: 皇后 2 reversed prepared=False resolving card enters discard
+PASS: 皇后 2 reversed prepared=True completes
+PASS: 皇后 2 reversed prepared=True card conservation
+PASS: 皇后 2 reversed prepared=True resource bounds
+PASS: 皇后 2 reversed prepared=True resolving card enters discard
+PASS: 皇帝 0 up prepared=False completes
+PASS: 皇帝 0 up prepared=False card conservation
+PASS: 皇帝 0 up prepared=False resource bounds
+PASS: 皇帝 0 up prepared=False resolving card enters discard
+PASS: 皇帝 0 up prepared=True completes
+PASS: 皇帝 0 up prepared=True card conservation
+PASS: 皇帝 0 up prepared=True resource bounds
+PASS: 皇帝 0 up prepared=True resolving card enters discard
+PASS: 皇帝 0 reversed prepared=False completes
+PASS: 皇帝 0 reversed prepared=False card conservation
+PASS: 皇帝 0 reversed prepared=False resource bounds
+PASS: 皇帝 0 reversed prepared=False resolving card enters discard
+PASS: 皇帝 0 reversed prepared=True completes
+PASS: 皇帝 0 reversed prepared=True card conservation
+PASS: 皇帝 0 reversed prepared=True resource bounds
+PASS: 皇帝 0 reversed prepared=True resolving card enters discard
+PASS: 皇帝 1 up prepared=False completes
+PASS: 皇帝 1 up prepared=False card conservation
+PASS: 皇帝 1 up prepared=False resource bounds
+PASS: 皇帝 1 up prepared=False resolving card enters discard
+PASS: 皇帝 1 up prepared=True completes
+PASS: 皇帝 1 up prepared=True card conservation
+PASS: 皇帝 1 up prepared=True resource bounds
+PASS: 皇帝 1 up prepared=True resolving card enters discard
+PASS: 皇帝 1 reversed prepared=False completes
+PASS: 皇帝 1 reversed prepared=False card conservation
+PASS: 皇帝 1 reversed prepared=False resource bounds
+PASS: 皇帝 1 reversed prepared=False resolving card enters discard
+PASS: 皇帝 1 reversed prepared=True completes
+PASS: 皇帝 1 reversed prepared=True card conservation
+PASS: 皇帝 1 reversed prepared=True resource bounds
+PASS: 皇帝 1 reversed prepared=True resolving card enters discard
+PASS: 皇帝 2 up prepared=False completes
+PASS: 皇帝 2 up prepared=False card conservation
+PASS: 皇帝 2 up prepared=False resource bounds
+PASS: 皇帝 2 up prepared=False resolving card enters discard
+PASS: 皇帝 2 up prepared=True completes
+PASS: 皇帝 2 up prepared=True card conservation
+PASS: 皇帝 2 up prepared=True resource bounds
+PASS: 皇帝 2 up prepared=True resolving card enters discard
+PASS: 皇帝 2 reversed prepared=False completes
+PASS: 皇帝 2 reversed prepared=False card conservation
+PASS: 皇帝 2 reversed prepared=False resource bounds
+PASS: 皇帝 2 reversed prepared=False resolving card enters discard
+PASS: 皇帝 2 reversed prepared=True completes
+PASS: 皇帝 2 reversed prepared=True card conservation
+PASS: 皇帝 2 reversed prepared=True resource bounds
+PASS: 皇帝 2 reversed prepared=True resolving card enters discard
+PASS: 教皇 0 up prepared=False completes
+PASS: 教皇 0 up prepared=False card conservation
+PASS: 教皇 0 up prepared=False resource bounds
+PASS: 教皇 0 up prepared=False resolving card enters discard
+PASS: 教皇 0 up prepared=True completes
+PASS: 教皇 0 up prepared=True card conservation
+PASS: 教皇 0 up prepared=True resource bounds
+PASS: 教皇 0 up prepared=True resolving card enters discard
+PASS: 教皇 0 reversed prepared=False completes
+PASS: 教皇 0 reversed prepared=False card conservation
+PASS: 教皇 0 reversed prepared=False resource bounds
+PASS: 教皇 0 reversed prepared=False resolving card enters discard
+PASS: 教皇 0 reversed prepared=True completes
+PASS: 教皇 0 reversed prepared=True card conservation
+PASS: 教皇 0 reversed prepared=True resource bounds
+PASS: 教皇 0 reversed prepared=True resolving card enters discard
+PASS: 教皇 1 up prepared=False completes
+PASS: 教皇 1 up prepared=False card conservation
+PASS: 教皇 1 up prepared=False resource bounds
+PASS: 教皇 1 up prepared=False resolving card enters discard
+PASS: 教皇 1 up prepared=True completes
+PASS: 教皇 1 up prepared=True card conservation
+PASS: 教皇 1 up prepared=True resource bounds
+PASS: 教皇 1 up prepared=True resolving card enters discard
+PASS: 教皇 1 reversed prepared=False completes
+PASS: 教皇 1 reversed prepared=False card conservation
+PASS: 教皇 1 reversed prepared=False resource bounds
+PASS: 教皇 1 reversed prepared=False resolving card enters discard
+PASS: 教皇 1 reversed prepared=True completes
+PASS: 教皇 1 reversed prepared=True card conservation
+PASS: 教皇 1 reversed prepared=True resource bounds
+PASS: 教皇 1 reversed prepared=True resolving card enters discard
+PASS: 教皇 2 up prepared=False completes
+PASS: 教皇 2 up prepared=False card conservation
+PASS: 教皇 2 up prepared=False resource bounds
+PASS: 教皇 2 up prepared=False resolving card enters discard
+PASS: 教皇 2 up prepared=True completes
+PASS: 教皇 2 up prepared=True card conservation
+PASS: 教皇 2 up prepared=True resource bounds
+PASS: 教皇 2 up prepared=True resolving card enters discard
+PASS: 教皇 2 reversed prepared=False completes
+PASS: 教皇 2 reversed prepared=False card conservation
+PASS: 教皇 2 reversed prepared=False resource bounds
+PASS: 教皇 2 reversed prepared=False resolving card enters discard
+PASS: 教皇 2 reversed prepared=True completes
+PASS: 教皇 2 reversed prepared=True card conservation
+PASS: 教皇 2 reversed prepared=True resource bounds
+PASS: 教皇 2 reversed prepared=True resolving card enters discard
+PASS: 恋人 0 up prepared=False completes
+PASS: 恋人 0 up prepared=False card conservation
+PASS: 恋人 0 up prepared=False resource bounds
+PASS: 恋人 0 up prepared=False resolving card enters discard
+PASS: 恋人 0 up prepared=True completes
+PASS: 恋人 0 up prepared=True card conservation
+PASS: 恋人 0 up prepared=True resource bounds
+PASS: 恋人 0 up prepared=True resolving card enters discard
+PASS: 恋人 0 reversed prepared=False completes
+PASS: 恋人 0 reversed prepared=False card conservation
+PASS: 恋人 0 reversed prepared=False resource bounds
+PASS: 恋人 0 reversed prepared=False resolving card enters discard
+PASS: 恋人 0 reversed prepared=True completes
+PASS: 恋人 0 reversed prepared=True card conservation
+PASS: 恋人 0 reversed prepared=True resource bounds
+PASS: 恋人 0 reversed prepared=True resolving card enters discard
+PASS: 恋人 1 up prepared=False completes
+PASS: 恋人 1 up prepared=False card conservation
+PASS: 恋人 1 up prepared=False resource bounds
+PASS: 恋人 1 up prepared=False resolving card enters discard
+PASS: 恋人 1 up prepared=True completes
+PASS: 恋人 1 up prepared=True card conservation
+PASS: 恋人 1 up prepared=True resource bounds
+PASS: 恋人 1 up prepared=True resolving card enters discard
+PASS: 恋人 1 reversed prepared=False completes
+PASS: 恋人 1 reversed prepared=False card conservation
+PASS: 恋人 1 reversed prepared=False resource bounds
+PASS: 恋人 1 reversed prepared=False resolving card enters discard
+PASS: 恋人 1 reversed prepared=True completes
+PASS: 恋人 1 reversed prepared=True card conservation
+PASS: 恋人 1 reversed prepared=True resource bounds
+PASS: 恋人 1 reversed prepared=True resolving card enters discard
+PASS: 恋人 2 up prepared=False completes
+PASS: 恋人 2 up prepared=False card conservation
+PASS: 恋人 2 up prepared=False resource bounds
+PASS: 恋人 2 up prepared=False resolving card enters discard
+PASS: 恋人 2 up prepared=True completes
+PASS: 恋人 2 up prepared=True card conservation
+PASS: 恋人 2 up prepared=True resource bounds
+PASS: 恋人 2 up prepared=True resolving card enters discard
+PASS: 恋人 2 reversed prepared=False completes
+PASS: 恋人 2 reversed prepared=False card conservation
+PASS: 恋人 2 reversed prepared=False resource bounds
+PASS: 恋人 2 reversed prepared=False resolving card enters discard
+PASS: 恋人 2 reversed prepared=True completes
+PASS: 恋人 2 reversed prepared=True card conservation
+PASS: 恋人 2 reversed prepared=True resource bounds
+PASS: 恋人 2 reversed prepared=True resolving card enters discard
+PASS: 战车 0 up prepared=False completes
+PASS: 战车 0 up prepared=False card conservation
+PASS: 战车 0 up prepared=False resource bounds
+PASS: 战车 0 up prepared=False resolving card enters discard
+PASS: 战车 0 up prepared=True completes
+PASS: 战车 0 up prepared=True card conservation
+PASS: 战车 0 up prepared=True resource bounds
+PASS: 战车 0 up prepared=True resolving card enters discard
+PASS: 战车 0 reversed prepared=False completes
+PASS: 战车 0 reversed prepared=False card conservation
+PASS: 战车 0 reversed prepared=False resource bounds
+PASS: 战车 0 reversed prepared=False resolving card enters discard
+PASS: 战车 0 reversed prepared=True completes
+PASS: 战车 0 reversed prepared=True card conservation
+PASS: 战车 0 reversed prepared=True resource bounds
+PASS: 战车 0 reversed prepared=True resolving card enters discard
+PASS: 战车 1 up prepared=False completes
+PASS: 战车 1 up prepared=False card conservation
+PASS: 战车 1 up prepared=False resource bounds
+PASS: 战车 1 up prepared=False resolving card enters discard
+PASS: 战车 1 up prepared=True completes
+PASS: 战车 1 up prepared=True card conservation
+PASS: 战车 1 up prepared=True resource bounds
+PASS: 战车 1 up prepared=True resolving card enters discard
+PASS: 战车 1 reversed prepared=False completes
+PASS: 战车 1 reversed prepared=False card conservation
+PASS: 战车 1 reversed prepared=False resource bounds
+PASS: 战车 1 reversed prepared=False resolving card enters discard
+PASS: 战车 1 reversed prepared=True completes
+PASS: 战车 1 reversed prepared=True card conservation
+PASS: 战车 1 reversed prepared=True resource bounds
+PASS: 战车 1 reversed prepared=True resolving card enters discard
+PASS: 战车 2 up prepared=False completes
+PASS: 战车 2 up prepared=False card conservation
+PASS: 战车 2 up prepared=False resource bounds
+PASS: 战车 2 up prepared=False resolving card enters discard
+PASS: 战车 2 up prepared=True completes
+PASS: 战车 2 up prepared=True card conservation
+PASS: 战车 2 up prepared=True resource bounds
+PASS: 战车 2 up prepared=True resolving card enters discard
+PASS: 战车 2 reversed prepared=False completes
+PASS: 战车 2 reversed prepared=False card conservation
+PASS: 战车 2 reversed prepared=False resource bounds
+PASS: 战车 2 reversed prepared=False resolving card enters discard
+PASS: 战车 2 reversed prepared=True completes
+PASS: 战车 2 reversed prepared=True card conservation
+PASS: 战车 2 reversed prepared=True resource bounds
+PASS: 战车 2 reversed prepared=True resolving card enters discard
+PASS: 力量 0 up prepared=False completes
+PASS: 力量 0 up prepared=False card conservation
+PASS: 力量 0 up prepared=False resource bounds
+PASS: 力量 0 up prepared=False resolving card enters discard
+PASS: 力量 0 up prepared=True completes
+PASS: 力量 0 up prepared=True card conservation
+PASS: 力量 0 up prepared=True resource bounds
+PASS: 力量 0 up prepared=True resolving card enters discard
+PASS: 力量 0 reversed prepared=False completes
+PASS: 力量 0 reversed prepared=False card conservation
+PASS: 力量 0 reversed prepared=False resource bounds
+PASS: 力量 0 reversed prepared=False resolving card enters discard
+PASS: 力量 0 reversed prepared=True completes
+PASS: 力量 0 reversed prepared=True card conservation
+PASS: 力量 0 reversed prepared=True resource bounds
+PASS: 力量 0 reversed prepared=True resolving card enters discard
+PASS: 力量 1 up prepared=False completes
+PASS: 力量 1 up prepared=False card conservation
+PASS: 力量 1 up prepared=False resource bounds
+PASS: 力量 1 up prepared=False resolving card enters discard
+PASS: 力量 1 up prepared=True completes
+PASS: 力量 1 up prepared=True card conservation
+PASS: 力量 1 up prepared=True resource bounds
+PASS: 力量 1 up prepared=True resolving card enters discard
+PASS: 力量 1 reversed prepared=False completes
+PASS: 力量 1 reversed prepared=False card conservation
+PASS: 力量 1 reversed prepared=False resource bounds
+PASS: 力量 1 reversed prepared=False resolving card enters discard
+PASS: 力量 1 reversed prepared=True completes
+PASS: 力量 1 reversed prepared=True card conservation
+PASS: 力量 1 reversed prepared=True resource bounds
+PASS: 力量 1 reversed prepared=True resolving card enters discard
+PASS: 力量 2 up prepared=False completes
+PASS: 力量 2 up prepared=False card conservation
+PASS: 力量 2 up prepared=False resource bounds
+PASS: 力量 2 up prepared=False resolving card enters discard
+PASS: 力量 2 up prepared=True completes
+PASS: 力量 2 up prepared=True card conservation
+PASS: 力量 2 up prepared=True resource bounds
+PASS: 力量 2 up prepared=True resolving card enters discard
+PASS: 力量 2 reversed prepared=False completes
+PASS: 力量 2 reversed prepared=False card conservation
+PASS: 力量 2 reversed prepared=False resource bounds
+PASS: 力量 2 reversed prepared=False resolving card enters discard
+PASS: 力量 2 reversed prepared=True completes
+PASS: 力量 2 reversed prepared=True card conservation
+PASS: 力量 2 reversed prepared=True resource bounds
+PASS: 力量 2 reversed prepared=True resolving card enters discard
+PASS: 隐者 0 up prepared=False completes
+PASS: 隐者 0 up prepared=False card conservation
+PASS: 隐者 0 up prepared=False resource bounds
+PASS: 隐者 0 up prepared=False resolving card enters discard
+PASS: 隐者 0 up prepared=True completes
+PASS: 隐者 0 up prepared=True card conservation
+PASS: 隐者 0 up prepared=True resource bounds
+PASS: 隐者 0 up prepared=True resolving card enters discard
+PASS: 隐者 0 reversed prepared=False completes
+PASS: 隐者 0 reversed prepared=False card conservation
+PASS: 隐者 0 reversed prepared=False resource bounds
+PASS: 隐者 0 reversed prepared=False resolving card enters discard
+PASS: 隐者 0 reversed prepared=True completes
+PASS: 隐者 0 reversed prepared=True card conservation
+PASS: 隐者 0 reversed prepared=True resource bounds
+PASS: 隐者 0 reversed prepared=True resolving card enters discard
+PASS: 隐者 1 up prepared=False completes
+PASS: 隐者 1 up prepared=False card conservation
+PASS: 隐者 1 up prepared=False resource bounds
+PASS: 隐者 1 up prepared=False resolving card enters discard
+PASS: 隐者 1 up prepared=True completes
+PASS: 隐者 1 up prepared=True card conservation
+PASS: 隐者 1 up prepared=True resource bounds
+PASS: 隐者 1 up prepared=True resolving card enters discard
+PASS: 隐者 1 reversed prepared=False completes
+PASS: 隐者 1 reversed prepared=False card conservation
+PASS: 隐者 1 reversed prepared=False resource bounds
+PASS: 隐者 1 reversed prepared=False resolving card enters discard
+PASS: 隐者 1 reversed prepared=True completes
+PASS: 隐者 1 reversed prepared=True card conservation
+PASS: 隐者 1 reversed prepared=True resource bounds
+PASS: 隐者 1 reversed prepared=True resolving card enters discard
+PASS: 隐者 2 up prepared=False completes
+PASS: 隐者 2 up prepared=False card conservation
+PASS: 隐者 2 up prepared=False resource bounds
+PASS: 隐者 2 up prepared=False resolving card enters discard
+PASS: 隐者 2 up prepared=True completes
+PASS: 隐者 2 up prepared=True card conservation
+PASS: 隐者 2 up prepared=True resource bounds
+PASS: 隐者 2 up prepared=True resolving card enters discard
+PASS: 隐者 2 reversed prepared=False completes
+PASS: 隐者 2 reversed prepared=False card conservation
+PASS: 隐者 2 reversed prepared=False resource bounds
+PASS: 隐者 2 reversed prepared=False resolving card enters discard
+PASS: 隐者 2 reversed prepared=True completes
+PASS: 隐者 2 reversed prepared=True card conservation
+PASS: 隐者 2 reversed prepared=True resource bounds
+PASS: 隐者 2 reversed prepared=True resolving card enters discard
+PASS: 命运之轮 0 up prepared=False completes
+PASS: 命运之轮 0 up prepared=False card conservation
+PASS: 命运之轮 0 up prepared=False resource bounds
+PASS: 命运之轮 0 up prepared=False resolving card enters discard
+PASS: 命运之轮 0 up prepared=True completes
+PASS: 命运之轮 0 up prepared=True card conservation
+PASS: 命运之轮 0 up prepared=True resource bounds
+PASS: 命运之轮 0 up prepared=True resolving card enters discard
+PASS: 命运之轮 0 reversed prepared=False completes
+PASS: 命运之轮 0 reversed prepared=False card conservation
+PASS: 命运之轮 0 reversed prepared=False resource bounds
+PASS: 命运之轮 0 reversed prepared=False resolving card enters discard
+PASS: 命运之轮 0 reversed prepared=True completes
+PASS: 命运之轮 0 reversed prepared=True card conservation
+PASS: 命运之轮 0 reversed prepared=True resource bounds
+PASS: 命运之轮 0 reversed prepared=True resolving card enters discard
+PASS: 命运之轮 1 up prepared=False completes
+PASS: 命运之轮 1 up prepared=False card conservation
+PASS: 命运之轮 1 up prepared=False resource bounds
+PASS: 命运之轮 1 up prepared=False resolving card enters discard
+PASS: 命运之轮 1 up prepared=True completes
+PASS: 命运之轮 1 up prepared=True card conservation
+PASS: 命运之轮 1 up prepared=True resource bounds
+PASS: 命运之轮 1 up prepared=True resolving card enters discard
+PASS: 命运之轮 1 reversed prepared=False completes
+PASS: 命运之轮 1 reversed prepared=False card conservation
+PASS: 命运之轮 1 reversed prepared=False resource bounds
+PASS: 命运之轮 1 reversed prepared=False resolving card enters discard
+PASS: 命运之轮 1 reversed prepared=True completes
+PASS: 命运之轮 1 reversed prepared=True card conservation
+PASS: 命运之轮 1 reversed prepared=True resource bounds
+PASS: 命运之轮 1 reversed prepared=True resolving card enters discard
+PASS: 命运之轮 2 up prepared=False completes
+PASS: 命运之轮 2 up prepared=False card conservation
+PASS: 命运之轮 2 up prepared=False resource bounds
+PASS: 命运之轮 2 up prepared=False resolving card enters discard
+PASS: 命运之轮 2 up prepared=True completes
+PASS: 命运之轮 2 up prepared=True card conservation
+PASS: 命运之轮 2 up prepared=True resource bounds
+PASS: 命运之轮 2 up prepared=True resolving card enters discard
+PASS: 命运之轮 2 reversed prepared=False completes
+PASS: 命运之轮 2 reversed prepared=False card conservation
+PASS: 命运之轮 2 reversed prepared=False resource bounds
+PASS: 命运之轮 2 reversed prepared=False resolving card enters discard
+PASS: 命运之轮 2 reversed prepared=True completes
+PASS: 命运之轮 2 reversed prepared=True card conservation
+PASS: 命运之轮 2 reversed prepared=True resource bounds
+PASS: 命运之轮 2 reversed prepared=True resolving card enters discard
+PASS: 正义 0 up prepared=False completes
+PASS: 正义 0 up prepared=False card conservation
+PASS: 正义 0 up prepared=False resource bounds
+PASS: 正义 0 up prepared=False resolving card enters discard
+PASS: 正义 0 up prepared=True completes
+PASS: 正义 0 up prepared=True card conservation
+PASS: 正义 0 up prepared=True resource bounds
+PASS: 正义 0 up prepared=True resolving card enters discard
+PASS: 正义 0 reversed prepared=False completes
+PASS: 正义 0 reversed prepared=False card conservation
+PASS: 正义 0 reversed prepared=False resource bounds
+PASS: 正义 0 reversed prepared=False resolving card enters discard
+PASS: 正义 0 reversed prepared=True completes
+PASS: 正义 0 reversed prepared=True card conservation
+PASS: 正义 0 reversed prepared=True resource bounds
+PASS: 正义 0 reversed prepared=True resolving card enters discard
+PASS: 正义 1 up prepared=False completes
+PASS: 正义 1 up prepared=False card conservation
+PASS: 正义 1 up prepared=False resource bounds
+PASS: 正义 1 up prepared=False resolving card enters discard
+PASS: 正义 1 up prepared=True completes
+PASS: 正义 1 up prepared=True card conservation
+PASS: 正义 1 up prepared=True resource bounds
+PASS: 正义 1 up prepared=True resolving card enters discard
+PASS: 正义 1 reversed prepared=False completes
+PASS: 正义 1 reversed prepared=False card conservation
+PASS: 正义 1 reversed prepared=False resource bounds
+PASS: 正义 1 reversed prepared=False resolving card enters discard
+PASS: 正义 1 reversed prepared=True completes
+PASS: 正义 1 reversed prepared=True card conservation
+PASS: 正义 1 reversed prepared=True resource bounds
+PASS: 正义 1 reversed prepared=True resolving card enters discard
+PASS: 正义 2 up prepared=False completes
+PASS: 正义 2 up prepared=False card conservation
+PASS: 正义 2 up prepared=False resource bounds
+PASS: 正义 2 up prepared=False resolving card enters discard
+PASS: 正义 2 up prepared=True completes
+PASS: 正义 2 up prepared=True card conservation
+PASS: 正义 2 up prepared=True resource bounds
+PASS: 正义 2 up prepared=True resolving card enters discard
+PASS: 正义 2 reversed prepared=False completes
+PASS: 正义 2 reversed prepared=False card conservation
+PASS: 正义 2 reversed prepared=False resource bounds
+PASS: 正义 2 reversed prepared=False resolving card enters discard
+PASS: 正义 2 reversed prepared=True completes
+PASS: 正义 2 reversed prepared=True card conservation
+PASS: 正义 2 reversed prepared=True resource bounds
+PASS: 正义 2 reversed prepared=True resolving card enters discard
+PASS: 倒吊人 0 up prepared=False completes
+PASS: 倒吊人 0 up prepared=False card conservation
+PASS: 倒吊人 0 up prepared=False resource bounds
+PASS: 倒吊人 0 up prepared=False resolving card enters discard
+PASS: 倒吊人 0 up prepared=True completes
+PASS: 倒吊人 0 up prepared=True card conservation
+PASS: 倒吊人 0 up prepared=True resource bounds
+PASS: 倒吊人 0 up prepared=True resolving card enters discard
+PASS: 倒吊人 0 reversed prepared=False completes
+PASS: 倒吊人 0 reversed prepared=False card conservation
+PASS: 倒吊人 0 reversed prepared=False resource bounds
+PASS: 倒吊人 0 reversed prepared=False resolving card enters discard
+PASS: 倒吊人 0 reversed prepared=True completes
+PASS: 倒吊人 0 reversed prepared=True card conservation
+PASS: 倒吊人 0 reversed prepared=True resource bounds
+PASS: 倒吊人 0 reversed prepared=True resolving card enters discard
+PASS: 倒吊人 1 up prepared=False completes
+PASS: 倒吊人 1 up prepared=False card conservation
+PASS: 倒吊人 1 up prepared=False resource bounds
+PASS: 倒吊人 1 up prepared=False resolving card enters discard
+PASS: 倒吊人 1 up prepared=True completes
+PASS: 倒吊人 1 up prepared=True card conservation
+PASS: 倒吊人 1 up prepared=True resource bounds
+PASS: 倒吊人 1 up prepared=True resolving card enters discard
+PASS: 倒吊人 1 reversed prepared=False completes
+PASS: 倒吊人 1 reversed prepared=False card conservation
+PASS: 倒吊人 1 reversed prepared=False resource bounds
+PASS: 倒吊人 1 reversed prepared=False resolving card enters discard
+PASS: 倒吊人 1 reversed prepared=True completes
+PASS: 倒吊人 1 reversed prepared=True card conservation
+PASS: 倒吊人 1 reversed prepared=True resource bounds
+PASS: 倒吊人 1 reversed prepared=True resolving card enters discard
+PASS: 倒吊人 2 up prepared=False completes
+PASS: 倒吊人 2 up prepared=False card conservation
+PASS: 倒吊人 2 up prepared=False resource bounds
+PASS: 倒吊人 2 up prepared=False resolving card enters discard
+PASS: 倒吊人 2 up prepared=True completes
+PASS: 倒吊人 2 up prepared=True card conservation
+PASS: 倒吊人 2 up prepared=True resource bounds
+PASS: 倒吊人 2 up prepared=True resolving card enters discard
+PASS: 倒吊人 2 reversed prepared=False completes
+PASS: 倒吊人 2 reversed prepared=False card conservation
+PASS: 倒吊人 2 reversed prepared=False resource bounds
+PASS: 倒吊人 2 reversed prepared=False resolving card enters discard
+PASS: 倒吊人 2 reversed prepared=True completes
+PASS: 倒吊人 2 reversed prepared=True card conservation
+PASS: 倒吊人 2 reversed prepared=True resource bounds
+PASS: 倒吊人 2 reversed prepared=True resolving card enters discard
+PASS: 死神 0 up prepared=False completes
+PASS: 死神 0 up prepared=False card conservation
+PASS: 死神 0 up prepared=False resource bounds
+PASS: 死神 0 up prepared=False resolving card enters discard
+PASS: 死神 0 up prepared=True completes
+PASS: 死神 0 up prepared=True card conservation
+PASS: 死神 0 up prepared=True resource bounds
+PASS: 死神 0 up prepared=True resolving card enters discard
+PASS: 死神 0 reversed prepared=False completes
+PASS: 死神 0 reversed prepared=False card conservation
+PASS: 死神 0 reversed prepared=False resource bounds
+PASS: 死神 0 reversed prepared=False resolving card enters discard
+PASS: 死神 0 reversed prepared=True completes
+PASS: 死神 0 reversed prepared=True card conservation
+PASS: 死神 0 reversed prepared=True resource bounds
+PASS: 死神 0 reversed prepared=True resolving card enters discard
+PASS: 死神 1 up prepared=False completes
+PASS: 死神 1 up prepared=False card conservation
+PASS: 死神 1 up prepared=False resource bounds
+PASS: 死神 1 up prepared=False resolving card enters discard
+PASS: 死神 1 up prepared=True completes
+PASS: 死神 1 up prepared=True card conservation
+PASS: 死神 1 up prepared=True resource bounds
+PASS: 死神 1 up prepared=True resolving card enters discard
+PASS: 死神 1 reversed prepared=False completes
+PASS: 死神 1 reversed prepared=False card conservation
+PASS: 死神 1 reversed prepared=False resource bounds
+PASS: 死神 1 reversed prepared=False resolving card enters discard
+PASS: 死神 1 reversed prepared=True completes
+PASS: 死神 1 reversed prepared=True card conservation
+PASS: 死神 1 reversed prepared=True resource bounds
+PASS: 死神 1 reversed prepared=True resolving card enters discard
+PASS: 死神 2 up prepared=False completes
+PASS: 死神 2 up prepared=False card conservation
+PASS: 死神 2 up prepared=False resource bounds
+PASS: 死神 2 up prepared=False resolving card enters discard
+PASS: 死神 2 up prepared=True completes
+PASS: 死神 2 up prepared=True card conservation
+PASS: 死神 2 up prepared=True resource bounds
+PASS: 死神 2 up prepared=True resolving card enters discard
+PASS: 死神 2 reversed prepared=False completes
+PASS: 死神 2 reversed prepared=False card conservation
+PASS: 死神 2 reversed prepared=False resource bounds
+PASS: 死神 2 reversed prepared=False resolving card enters discard
+PASS: 死神 2 reversed prepared=True completes
+PASS: 死神 2 reversed prepared=True card conservation
+PASS: 死神 2 reversed prepared=True resource bounds
+PASS: 死神 2 reversed prepared=True resolving card enters discard
+PASS: 节制 0 up prepared=False completes
+PASS: 节制 0 up prepared=False card conservation
+PASS: 节制 0 up prepared=False resource bounds
+PASS: 节制 0 up prepared=False resolving card enters discard
+PASS: 节制 0 up prepared=True completes
+PASS: 节制 0 up prepared=True card conservation
+PASS: 节制 0 up prepared=True resource bounds
+PASS: 节制 0 up prepared=True resolving card enters discard
+PASS: 节制 0 reversed prepared=False completes
+PASS: 节制 0 reversed prepared=False card conservation
+PASS: 节制 0 reversed prepared=False resource bounds
+PASS: 节制 0 reversed prepared=False resolving card enters discard
+PASS: 节制 0 reversed prepared=True completes
+PASS: 节制 0 reversed prepared=True card conservation
+PASS: 节制 0 reversed prepared=True resource bounds
+PASS: 节制 0 reversed prepared=True resolving card enters discard
+PASS: 节制 1 up prepared=False completes
+PASS: 节制 1 up prepared=False card conservation
+PASS: 节制 1 up prepared=False resource bounds
+PASS: 节制 1 up prepared=False resolving card enters discard
+PASS: 节制 1 up prepared=True completes
+PASS: 节制 1 up prepared=True card conservation
+PASS: 节制 1 up prepared=True resource bounds
+PASS: 节制 1 up prepared=True resolving card enters discard
+PASS: 节制 1 reversed prepared=False completes
+PASS: 节制 1 reversed prepared=False card conservation
+PASS: 节制 1 reversed prepared=False resource bounds
+PASS: 节制 1 reversed prepared=False resolving card enters discard
+PASS: 节制 1 reversed prepared=True completes
+PASS: 节制 1 reversed prepared=True card conservation
+PASS: 节制 1 reversed prepared=True resource bounds
+PASS: 节制 1 reversed prepared=True resolving card enters discard
+PASS: 节制 2 up prepared=False completes
+PASS: 节制 2 up prepared=False card conservation
+PASS: 节制 2 up prepared=False resource bounds
+PASS: 节制 2 up prepared=False resolving card enters discard
+PASS: 节制 2 up prepared=True completes
+PASS: 节制 2 up prepared=True card conservation
+PASS: 节制 2 up prepared=True resource bounds
+PASS: 节制 2 up prepared=True resolving card enters discard
+PASS: 节制 2 reversed prepared=False completes
+PASS: 节制 2 reversed prepared=False card conservation
+PASS: 节制 2 reversed prepared=False resource bounds
+PASS: 节制 2 reversed prepared=False resolving card enters discard
+PASS: 节制 2 reversed prepared=True completes
+PASS: 节制 2 reversed prepared=True card conservation
+PASS: 节制 2 reversed prepared=True resource bounds
+PASS: 节制 2 reversed prepared=True resolving card enters discard
+PASS: 恶魔 0 up prepared=False completes
+PASS: 恶魔 0 up prepared=False card conservation
+PASS: 恶魔 0 up prepared=False resource bounds
+PASS: 恶魔 0 up prepared=False resolving card enters discard
+PASS: 恶魔 0 up prepared=True completes
+PASS: 恶魔 0 up prepared=True card conservation
+PASS: 恶魔 0 up prepared=True resource bounds
+PASS: 恶魔 0 up prepared=True resolving card enters discard
+PASS: 恶魔 0 reversed prepared=False completes
+PASS: 恶魔 0 reversed prepared=False card conservation
+PASS: 恶魔 0 reversed prepared=False resource bounds
+PASS: 恶魔 0 reversed prepared=False resolving card enters discard
+PASS: 恶魔 0 reversed prepared=True completes
+PASS: 恶魔 0 reversed prepared=True card conservation
+PASS: 恶魔 0 reversed prepared=True resource bounds
+PASS: 恶魔 0 reversed prepared=True resolving card enters discard
+PASS: 恶魔 1 up prepared=False completes
+PASS: 恶魔 1 up prepared=False card conservation
+PASS: 恶魔 1 up prepared=False resource bounds
+PASS: 恶魔 1 up prepared=False resolving card enters discard
+PASS: 恶魔 1 up prepared=True completes
+PASS: 恶魔 1 up prepared=True card conservation
+PASS: 恶魔 1 up prepared=True resource bounds
+PASS: 恶魔 1 up prepared=True resolving card enters discard
+PASS: 恶魔 1 reversed prepared=False completes
+PASS: 恶魔 1 reversed prepared=False card conservation
+PASS: 恶魔 1 reversed prepared=False resource bounds
+PASS: 恶魔 1 reversed prepared=False resolving card enters discard
+PASS: 恶魔 1 reversed prepared=True completes
+PASS: 恶魔 1 reversed prepared=True card conservation
+PASS: 恶魔 1 reversed prepared=True resource bounds
+PASS: 恶魔 1 reversed prepared=True resolving card enters discard
+PASS: 恶魔 2 up prepared=False completes
+PASS: 恶魔 2 up prepared=False card conservation
+PASS: 恶魔 2 up prepared=False resource bounds
+PASS: 恶魔 2 up prepared=False resolving card enters discard
+PASS: 恶魔 2 up prepared=True completes
+PASS: 恶魔 2 up prepared=True card conservation
+PASS: 恶魔 2 up prepared=True resource bounds
+PASS: 恶魔 2 up prepared=True resolving card enters discard
+PASS: 恶魔 2 reversed prepared=False completes
+PASS: 恶魔 2 reversed prepared=False card conservation
+PASS: 恶魔 2 reversed prepared=False resource bounds
+PASS: 恶魔 2 reversed prepared=False resolving card enters discard
+PASS: 恶魔 2 reversed prepared=True completes
+PASS: 恶魔 2 reversed prepared=True card conservation
+PASS: 恶魔 2 reversed prepared=True resource bounds
+PASS: 恶魔 2 reversed prepared=True resolving card enters discard
+PASS: 高塔 0 up prepared=False completes
+PASS: 高塔 0 up prepared=False card conservation
+PASS: 高塔 0 up prepared=False resource bounds
+PASS: 高塔 0 up prepared=False resolving card enters discard
+PASS: 高塔 0 up prepared=True completes
+PASS: 高塔 0 up prepared=True card conservation
+PASS: 高塔 0 up prepared=True resource bounds
+PASS: 高塔 0 up prepared=True resolving card enters discard
+PASS: 高塔 0 reversed prepared=False completes
+PASS: 高塔 0 reversed prepared=False card conservation
+PASS: 高塔 0 reversed prepared=False resource bounds
+PASS: 高塔 0 reversed prepared=False resolving card enters discard
+PASS: 高塔 0 reversed prepared=True completes
+PASS: 高塔 0 reversed prepared=True card conservation
+PASS: 高塔 0 reversed prepared=True resource bounds
+PASS: 高塔 0 reversed prepared=True resolving card enters discard
+PASS: 高塔 1 up prepared=False completes
+PASS: 高塔 1 up prepared=False card conservation
+PASS: 高塔 1 up prepared=False resource bounds
+PASS: 高塔 1 up prepared=False resolving card enters discard
+PASS: 高塔 1 up prepared=True completes
+PASS: 高塔 1 up prepared=True card conservation
+PASS: 高塔 1 up prepared=True resource bounds
+PASS: 高塔 1 up prepared=True resolving card enters discard
+PASS: 高塔 1 reversed prepared=False completes
+PASS: 高塔 1 reversed prepared=False card conservation
+PASS: 高塔 1 reversed prepared=False resource bounds
+PASS: 高塔 1 reversed prepared=False resolving card enters discard
+PASS: 高塔 1 reversed prepared=True completes
+PASS: 高塔 1 reversed prepared=True card conservation
+PASS: 高塔 1 reversed prepared=True resource bounds
+PASS: 高塔 1 reversed prepared=True resolving card enters discard
+PASS: 高塔 2 up prepared=False completes
+PASS: 高塔 2 up prepared=False card conservation
+PASS: 高塔 2 up prepared=False resource bounds
+PASS: 高塔 2 up prepared=False resolving card enters discard
+PASS: 高塔 2 up prepared=True completes
+PASS: 高塔 2 up prepared=True card conservation
+PASS: 高塔 2 up prepared=True resource bounds
+PASS: 高塔 2 up prepared=True resolving card enters discard
+PASS: 高塔 2 reversed prepared=False completes
+PASS: 高塔 2 reversed prepared=False card conservation
+PASS: 高塔 2 reversed prepared=False resource bounds
+PASS: 高塔 2 reversed prepared=False resolving card enters discard
+PASS: 高塔 2 reversed prepared=True completes
+PASS: 高塔 2 reversed prepared=True card conservation
+PASS: 高塔 2 reversed prepared=True resource bounds
+PASS: 高塔 2 reversed prepared=True resolving card enters discard
+PASS: 星星 0 up prepared=False completes
+PASS: 星星 0 up prepared=False card conservation
+PASS: 星星 0 up prepared=False resource bounds
+PASS: 星星 0 up prepared=False resolving card enters discard
+PASS: 星星 0 up prepared=True completes
+PASS: 星星 0 up prepared=True card conservation
+PASS: 星星 0 up prepared=True resource bounds
+PASS: 星星 0 up prepared=True resolving card enters discard
+PASS: 星星 0 reversed prepared=False completes
+PASS: 星星 0 reversed prepared=False card conservation
+PASS: 星星 0 reversed prepared=False resource bounds
+PASS: 星星 0 reversed prepared=False resolving card enters discard
+PASS: 星星 0 reversed prepared=True completes
+PASS: 星星 0 reversed prepared=True card conservation
+PASS: 星星 0 reversed prepared=True resource bounds
+PASS: 星星 0 reversed prepared=True resolving card enters discard
+PASS: 星星 1 up prepared=False completes
+PASS: 星星 1 up prepared=False card conservation
+PASS: 星星 1 up prepared=False resource bounds
+PASS: 星星 1 up prepared=False resolving card enters discard
+PASS: 星星 1 up prepared=True completes
+PASS: 星星 1 up prepared=True card conservation
+PASS: 星星 1 up prepared=True resource bounds
+PASS: 星星 1 up prepared=True resolving card enters discard
+PASS: 星星 1 reversed prepared=False completes
+PASS: 星星 1 reversed prepared=False card conservation
+PASS: 星星 1 reversed prepared=False resource bounds
+PASS: 星星 1 reversed prepared=False resolving card enters discard
+PASS: 星星 1 reversed prepared=True completes
+PASS: 星星 1 reversed prepared=True card conservation
+PASS: 星星 1 reversed prepared=True resource bounds
+PASS: 星星 1 reversed prepared=True resolving card enters discard
+PASS: 星星 2 up prepared=False completes
+PASS: 星星 2 up prepared=False card conservation
+PASS: 星星 2 up prepared=False resource bounds
+PASS: 星星 2 up prepared=False resolving card enters discard
+PASS: 星星 2 up prepared=True completes
+PASS: 星星 2 up prepared=True card conservation
+PASS: 星星 2 up prepared=True resource bounds
+PASS: 星星 2 up prepared=True resolving card enters discard
+PASS: 星星 2 reversed prepared=False completes
+PASS: 星星 2 reversed prepared=False card conservation
+PASS: 星星 2 reversed prepared=False resource bounds
+PASS: 星星 2 reversed prepared=False resolving card enters discard
+PASS: 星星 2 reversed prepared=True completes
+PASS: 星星 2 reversed prepared=True card conservation
+PASS: 星星 2 reversed prepared=True resource bounds
+PASS: 星星 2 reversed prepared=True resolving card enters discard
+PASS: 月亮 0 up prepared=False completes
+PASS: 月亮 0 up prepared=False card conservation
+PASS: 月亮 0 up prepared=False resource bounds
+PASS: 月亮 0 up prepared=False resolving card enters discard
+PASS: 月亮 0 up prepared=True completes
+PASS: 月亮 0 up prepared=True card conservation
+PASS: 月亮 0 up prepared=True resource bounds
+PASS: 月亮 0 up prepared=True resolving card enters discard
+PASS: 月亮 0 reversed prepared=False completes
+PASS: 月亮 0 reversed prepared=False card conservation
+PASS: 月亮 0 reversed prepared=False resource bounds
+PASS: 月亮 0 reversed prepared=False resolving card enters discard
+PASS: 月亮 0 reversed prepared=True completes
+PASS: 月亮 0 reversed prepared=True card conservation
+PASS: 月亮 0 reversed prepared=True resource bounds
+PASS: 月亮 0 reversed prepared=True resolving card enters discard
+PASS: 月亮 1 up prepared=False completes
+PASS: 月亮 1 up prepared=False card conservation
+PASS: 月亮 1 up prepared=False resource bounds
+PASS: 月亮 1 up prepared=False resolving card enters discard
+PASS: 月亮 1 up prepared=True completes
+PASS: 月亮 1 up prepared=True card conservation
+PASS: 月亮 1 up prepared=True resource bounds
+PASS: 月亮 1 up prepared=True resolving card enters discard
+PASS: 月亮 1 reversed prepared=False completes
+PASS: 月亮 1 reversed prepared=False card conservation
+PASS: 月亮 1 reversed prepared=False resource bounds
+PASS: 月亮 1 reversed prepared=False resolving card enters discard
+PASS: 月亮 1 reversed prepared=True completes
+PASS: 月亮 1 reversed prepared=True card conservation
+PASS: 月亮 1 reversed prepared=True resource bounds
+PASS: 月亮 1 reversed prepared=True resolving card enters discard
+PASS: 月亮 2 up prepared=False completes
+PASS: 月亮 2 up prepared=False card conservation
+PASS: 月亮 2 up prepared=False resource bounds
+PASS: 月亮 2 up prepared=False resolving card enters discard
+PASS: 月亮 2 up prepared=True completes
+PASS: 月亮 2 up prepared=True card conservation
+PASS: 月亮 2 up prepared=True resource bounds
+PASS: 月亮 2 up prepared=True resolving card enters discard
+PASS: 月亮 2 reversed prepared=False completes
+PASS: 月亮 2 reversed prepared=False card conservation
+PASS: 月亮 2 reversed prepared=False resource bounds
+PASS: 月亮 2 reversed prepared=False resolving card enters discard
+PASS: 月亮 2 reversed prepared=True completes
+PASS: 月亮 2 reversed prepared=True card conservation
+PASS: 月亮 2 reversed prepared=True resource bounds
+PASS: 月亮 2 reversed prepared=True resolving card enters discard
+PASS: 太阳 0 up prepared=False completes
+PASS: 太阳 0 up prepared=False card conservation
+PASS: 太阳 0 up prepared=False resource bounds
+PASS: 太阳 0 up prepared=False resolving card enters discard
+PASS: 太阳 0 up prepared=True completes
+PASS: 太阳 0 up prepared=True card conservation
+PASS: 太阳 0 up prepared=True resource bounds
+PASS: 太阳 0 up prepared=True resolving card enters discard
+PASS: 太阳 0 reversed prepared=False completes
+PASS: 太阳 0 reversed prepared=False card conservation
+PASS: 太阳 0 reversed prepared=False resource bounds
+PASS: 太阳 0 reversed prepared=False resolving card enters discard
+PASS: 太阳 0 reversed prepared=True completes
+PASS: 太阳 0 reversed prepared=True card conservation
+PASS: 太阳 0 reversed prepared=True resource bounds
+PASS: 太阳 0 reversed prepared=True resolving card enters discard
+PASS: 太阳 1 up prepared=False completes
+PASS: 太阳 1 up prepared=False card conservation
+PASS: 太阳 1 up prepared=False resource bounds
+PASS: 太阳 1 up prepared=False resolving card enters discard
+PASS: 太阳 1 up prepared=True completes
+PASS: 太阳 1 up prepared=True card conservation
+PASS: 太阳 1 up prepared=True resource bounds
+PASS: 太阳 1 up prepared=True resolving card enters discard
+PASS: 太阳 1 reversed prepared=False completes
+PASS: 太阳 1 reversed prepared=False card conservation
+PASS: 太阳 1 reversed prepared=False resource bounds
+PASS: 太阳 1 reversed prepared=False resolving card enters discard
+PASS: 太阳 1 reversed prepared=True completes
+PASS: 太阳 1 reversed prepared=True card conservation
+PASS: 太阳 1 reversed prepared=True resource bounds
+PASS: 太阳 1 reversed prepared=True resolving card enters discard
+PASS: 太阳 2 up prepared=False completes
+PASS: 太阳 2 up prepared=False card conservation
+PASS: 太阳 2 up prepared=False resource bounds
+PASS: 太阳 2 up prepared=False resolving card enters discard
+PASS: 太阳 2 up prepared=True completes
+PASS: 太阳 2 up prepared=True card conservation
+PASS: 太阳 2 up prepared=True resource bounds
+PASS: 太阳 2 up prepared=True resolving card enters discard
+PASS: 太阳 2 reversed prepared=False completes
+PASS: 太阳 2 reversed prepared=False card conservation
+PASS: 太阳 2 reversed prepared=False resource bounds
+PASS: 太阳 2 reversed prepared=False resolving card enters discard
+PASS: 太阳 2 reversed prepared=True completes
+PASS: 太阳 2 reversed prepared=True card conservation
+PASS: 太阳 2 reversed prepared=True resource bounds
+PASS: 太阳 2 reversed prepared=True resolving card enters discard
+PASS: 审判 0 up prepared=False completes
+PASS: 审判 0 up prepared=False card conservation
+PASS: 审判 0 up prepared=False resource bounds
+PASS: 审判 0 up prepared=False resolving card enters discard
+PASS: 审判 0 up prepared=True completes
+PASS: 审判 0 up prepared=True card conservation
+PASS: 审判 0 up prepared=True resource bounds
+PASS: 审判 0 up prepared=True resolving card enters discard
+PASS: 审判 0 reversed prepared=False completes
+PASS: 审判 0 reversed prepared=False card conservation
+PASS: 审判 0 reversed prepared=False resource bounds
+PASS: 审判 0 reversed prepared=False resolving card enters discard
+PASS: 审判 0 reversed prepared=True completes
+PASS: 审判 0 reversed prepared=True card conservation
+PASS: 审判 0 reversed prepared=True resource bounds
+PASS: 审判 0 reversed prepared=True resolving card enters discard
+PASS: 审判 1 up prepared=False completes
+PASS: 审判 1 up prepared=False card conservation
+PASS: 审判 1 up prepared=False resource bounds
+PASS: 审判 1 up prepared=False resolving card enters discard
+PASS: 审判 1 up prepared=True completes
+PASS: 审判 1 up prepared=True card conservation
+PASS: 审判 1 up prepared=True resource bounds
+PASS: 审判 1 up prepared=True resolving card enters discard
+PASS: 审判 1 reversed prepared=False completes
+PASS: 审判 1 reversed prepared=False card conservation
+PASS: 审判 1 reversed prepared=False resource bounds
+PASS: 审判 1 reversed prepared=False resolving card enters discard
+PASS: 审判 1 reversed prepared=True completes
+PASS: 审判 1 reversed prepared=True card conservation
+PASS: 审判 1 reversed prepared=True resource bounds
+PASS: 审判 1 reversed prepared=True resolving card enters discard
+PASS: 审判 2 up prepared=False completes
+PASS: 审判 2 up prepared=False card conservation
+PASS: 审判 2 up prepared=False resource bounds
+PASS: 审判 2 up prepared=False resolving card enters discard
+PASS: 审判 2 up prepared=True completes
+PASS: 审判 2 up prepared=True card conservation
+PASS: 审判 2 up prepared=True resource bounds
+PASS: 审判 2 up prepared=True resolving card enters discard
+PASS: 审判 2 reversed prepared=False completes
+PASS: 审判 2 reversed prepared=False card conservation
+PASS: 审判 2 reversed prepared=False resource bounds
+PASS: 审判 2 reversed prepared=False resolving card enters discard
+PASS: 审判 2 reversed prepared=True completes
+PASS: 审判 2 reversed prepared=True card conservation
+PASS: 审判 2 reversed prepared=True resource bounds
+PASS: 审判 2 reversed prepared=True resolving card enters discard
+PASS: damage oracle 愚者 0
+PASS: damage oracle 愚者 1
+PASS: damage oracle 愚者 2
+PASS: damage oracle 魔术师 0
+PASS: damage oracle 魔术师 1
+PASS: damage oracle 魔术师 2
+PASS: damage oracle 女祭司 0
+PASS: damage oracle 女祭司 1
+PASS: damage oracle 女祭司 2
+PASS: damage oracle 皇后 0
+PASS: damage oracle 皇后 1
+PASS: damage oracle 皇后 2
+PASS: damage oracle 皇帝 0
+PASS: damage oracle 皇帝 1
+PASS: damage oracle 皇帝 2
+PASS: damage oracle 教皇 0
+PASS: damage oracle 教皇 1
+PASS: damage oracle 教皇 2
+PASS: damage oracle 恋人 0
+PASS: damage oracle 恋人 1
+PASS: damage oracle 恋人 2
+PASS: damage oracle 战车 0
+PASS: damage oracle 战车 1
+PASS: damage oracle 战车 2
+PASS: damage oracle 力量 0
+PASS: damage oracle 力量 1
+PASS: damage oracle 力量 2
+PASS: damage oracle 隐者 0
+PASS: damage oracle 隐者 1
+PASS: damage oracle 隐者 2
+PASS: damage oracle 命运之轮 0
+PASS: damage oracle 命运之轮 1
+PASS: damage oracle 命运之轮 2
+PASS: damage oracle 正义 0
+PASS: damage oracle 正义 1
+PASS: damage oracle 正义 2
+PASS: damage oracle 倒吊人 0
+PASS: damage oracle 倒吊人 1
+PASS: damage oracle 倒吊人 2
+PASS: damage oracle 死神 0
+PASS: damage oracle 死神 1
+PASS: damage oracle 死神 2
+PASS: damage oracle 节制 0
+PASS: damage oracle 节制 1
+PASS: damage oracle 节制 2
+PASS: damage oracle 恶魔 0
+PASS: damage oracle 恶魔 1
+PASS: damage oracle 恶魔 2
+PASS: damage oracle 高塔 0
+PASS: damage oracle 高塔 1
+PASS: damage oracle 高塔 2
+PASS: damage oracle 星星 0
+PASS: damage oracle 星星 1
+PASS: damage oracle 星星 2
+PASS: damage oracle 月亮 0
+PASS: damage oracle 月亮 1
+PASS: damage oracle 月亮 2
+PASS: damage oracle 太阳 0
+PASS: damage oracle 太阳 1
+PASS: damage oracle 太阳 2
+PASS: damage oracle 审判 0
+PASS: damage oracle 审判 1
+PASS: damage oracle 审判 2
+PASS: prepared damage oracle 愚者 0
+PASS: prepared damage oracle 愚者 1
+PASS: prepared damage oracle 愚者 2
+PASS: prepared damage oracle 魔术师 0
+PASS: prepared damage oracle 魔术师 1
+PASS: prepared damage oracle 魔术师 2
+PASS: prepared damage oracle 女祭司 0
+PASS: prepared damage oracle 女祭司 1
+PASS: prepared damage oracle 女祭司 2
+PASS: prepared damage oracle 皇后 0
+PASS: prepared damage oracle 皇后 1
+PASS: prepared damage oracle 皇后 2
+PASS: prepared damage oracle 皇帝 0
+PASS: prepared damage oracle 皇帝 1
+PASS: prepared damage oracle 皇帝 2
+PASS: prepared damage oracle 教皇 0
+PASS: prepared damage oracle 教皇 1
+PASS: prepared damage oracle 教皇 2
+PASS: prepared damage oracle 恋人 0
+PASS: prepared damage oracle 恋人 1
+PASS: prepared damage oracle 恋人 2
+PASS: prepared damage oracle 战车 0
+PASS: prepared damage oracle 战车 1
+PASS: prepared damage oracle 战车 2
+PASS: prepared damage oracle 力量 0
+PASS: prepared damage oracle 力量 1
+PASS: prepared damage oracle 力量 2
+PASS: prepared damage oracle 隐者 0
+PASS: prepared damage oracle 隐者 1
+PASS: prepared damage oracle 隐者 2
+PASS: prepared damage oracle 命运之轮 0
+PASS: prepared damage oracle 命运之轮 1
+PASS: prepared damage oracle 命运之轮 2
+PASS: prepared damage oracle 正义 0
+PASS: prepared damage oracle 正义 1
+PASS: prepared damage oracle 正义 2
+PASS: prepared damage oracle 倒吊人 0
+PASS: prepared damage oracle 倒吊人 1
+PASS: prepared damage oracle 倒吊人 2
+PASS: prepared damage oracle 死神 0
+PASS: prepared damage oracle 死神 1
+PASS: prepared damage oracle 死神 2
+PASS: prepared damage oracle 节制 0
+PASS: prepared damage oracle 节制 1
+PASS: prepared damage oracle 节制 2
+PASS: prepared damage oracle 恶魔 0
+PASS: prepared damage oracle 恶魔 1
+PASS: prepared damage oracle 恶魔 2
+PASS: prepared damage oracle 高塔 0
+PASS: prepared damage oracle 高塔 1
+PASS: prepared damage oracle 高塔 2
+PASS: prepared damage oracle 星星 0
+PASS: prepared damage oracle 星星 1
+PASS: prepared damage oracle 星星 2
+PASS: prepared damage oracle 月亮 0
+PASS: prepared damage oracle 月亮 1
+PASS: prepared damage oracle 月亮 2
+PASS: prepared damage oracle 太阳 0
+PASS: prepared damage oracle 太阳 1
+PASS: prepared damage oracle 太阳 2
+PASS: prepared damage oracle 审判 0
+PASS: prepared damage oracle 审判 1
+PASS: prepared damage oracle 审判 2
+PASS: reversed draw/hand oracle 愚者 0
+PASS: reversed token-suit oracle 愚者 0
+PASS: reversed shield/road oracle 愚者 0
+PASS: reversed draw/hand oracle 愚者 1
+PASS: reversed token-suit oracle 愚者 1
+PASS: reversed shield/road oracle 愚者 1
+PASS: reversed draw/hand oracle 愚者 2
+PASS: reversed token-suit oracle 愚者 2
+PASS: reversed shield/road oracle 愚者 2
+PASS: reversed draw/hand oracle 魔术师 0
+PASS: reversed token-suit oracle 魔术师 0
+PASS: reversed shield/road oracle 魔术师 0
+PASS: reversed draw/hand oracle 魔术师 1
+PASS: reversed token-suit oracle 魔术师 1
+PASS: reversed shield/road oracle 魔术师 1
+PASS: reversed draw/hand oracle 魔术师 2
+PASS: reversed token-suit oracle 魔术师 2
+PASS: reversed shield/road oracle 魔术师 2
+PASS: reversed draw/hand oracle 女祭司 0
+PASS: reversed token-suit oracle 女祭司 0
+PASS: reversed shield/road oracle 女祭司 0
+PASS: reversed draw/hand oracle 女祭司 1
+PASS: reversed token-suit oracle 女祭司 1
+PASS: reversed shield/road oracle 女祭司 1
+PASS: reversed draw/hand oracle 女祭司 2
+PASS: reversed token-suit oracle 女祭司 2
+PASS: reversed shield/road oracle 女祭司 2
+PASS: reversed draw/hand oracle 皇后 0
+PASS: reversed token-suit oracle 皇后 0
+PASS: reversed shield/road oracle 皇后 0
+PASS: reversed draw/hand oracle 皇后 1
+PASS: reversed token-suit oracle 皇后 1
+PASS: reversed shield/road oracle 皇后 1
+PASS: reversed draw/hand oracle 皇后 2
+PASS: reversed token-suit oracle 皇后 2
+PASS: reversed shield/road oracle 皇后 2
+PASS: reversed draw/hand oracle 皇帝 0
+PASS: reversed token-suit oracle 皇帝 0
+PASS: reversed shield/road oracle 皇帝 0
+PASS: reversed draw/hand oracle 皇帝 1
+PASS: reversed token-suit oracle 皇帝 1
+PASS: reversed shield/road oracle 皇帝 1
+PASS: reversed draw/hand oracle 皇帝 2
+PASS: reversed token-suit oracle 皇帝 2
+PASS: reversed shield/road oracle 皇帝 2
+PASS: reversed draw/hand oracle 教皇 0
+PASS: reversed token-suit oracle 教皇 0
+PASS: reversed shield/road oracle 教皇 0
+PASS: reversed draw/hand oracle 教皇 1
+PASS: reversed token-suit oracle 教皇 1
+PASS: reversed shield/road oracle 教皇 1
+PASS: reversed draw/hand oracle 教皇 2
+PASS: reversed token-suit oracle 教皇 2
+PASS: reversed shield/road oracle 教皇 2
+PASS: reversed draw/hand oracle 恋人 0
+PASS: reversed token-suit oracle 恋人 0
+PASS: reversed shield/road oracle 恋人 0
+PASS: reversed draw/hand oracle 恋人 1
+PASS: reversed token-suit oracle 恋人 1
+PASS: reversed shield/road oracle 恋人 1
+PASS: reversed draw/hand oracle 恋人 2
+PASS: reversed token-suit oracle 恋人 2
+PASS: reversed shield/road oracle 恋人 2
+PASS: reversed draw/hand oracle 战车 0
+PASS: reversed token-suit oracle 战车 0
+PASS: reversed shield/road oracle 战车 0
+PASS: reversed draw/hand oracle 战车 1
+PASS: reversed token-suit oracle 战车 1
+PASS: reversed shield/road oracle 战车 1
+PASS: reversed draw/hand oracle 战车 2
+PASS: reversed token-suit oracle 战车 2
+PASS: reversed shield/road oracle 战车 2
+PASS: reversed draw/hand oracle 力量 0
+PASS: reversed token-suit oracle 力量 0
+PASS: reversed shield/road oracle 力量 0
+PASS: reversed draw/hand oracle 力量 1
+PASS: reversed token-suit oracle 力量 1
+PASS: reversed shield/road oracle 力量 1
+PASS: reversed draw/hand oracle 力量 2
+PASS: reversed token-suit oracle 力量 2
+PASS: reversed shield/road oracle 力量 2
+PASS: reversed draw/hand oracle 隐者 0
+PASS: reversed token-suit oracle 隐者 0
+PASS: reversed shield/road oracle 隐者 0
+PASS: reversed draw/hand oracle 隐者 1
+PASS: reversed token-suit oracle 隐者 1
+PASS: reversed shield/road oracle 隐者 1
+PASS: reversed draw/hand oracle 隐者 2
+PASS: reversed token-suit oracle 隐者 2
+PASS: reversed shield/road oracle 隐者 2
+PASS: reversed draw/hand oracle 命运之轮 0
+PASS: reversed token-suit oracle 命运之轮 0
+PASS: reversed shield/road oracle 命运之轮 0
+PASS: reversed draw/hand oracle 命运之轮 1
+PASS: reversed token-suit oracle 命运之轮 1
+PASS: reversed shield/road oracle 命运之轮 1
+PASS: reversed draw/hand oracle 命运之轮 2
+PASS: reversed token-suit oracle 命运之轮 2
+PASS: reversed shield/road oracle 命运之轮 2
+PASS: reversed draw/hand oracle 正义 0
+PASS: reversed token-suit oracle 正义 0
+PASS: reversed shield/road oracle 正义 0
+PASS: reversed draw/hand oracle 正义 1
+PASS: reversed token-suit oracle 正义 1
+PASS: reversed shield/road oracle 正义 1
+PASS: reversed draw/hand oracle 正义 2
+PASS: reversed token-suit oracle 正义 2
+PASS: reversed shield/road oracle 正义 2
+PASS: reversed draw/hand oracle 倒吊人 0
+PASS: reversed token-suit oracle 倒吊人 0
+PASS: reversed shield/road oracle 倒吊人 0
+PASS: reversed draw/hand oracle 倒吊人 1
+PASS: reversed token-suit oracle 倒吊人 1
+PASS: reversed shield/road oracle 倒吊人 1
+PASS: reversed draw/hand oracle 倒吊人 2
+PASS: reversed token-suit oracle 倒吊人 2
+PASS: reversed shield/road oracle 倒吊人 2
+PASS: reversed draw/hand oracle 死神 0
+PASS: reversed token-suit oracle 死神 0
+PASS: reversed shield/road oracle 死神 0
+PASS: reversed draw/hand oracle 死神 1
+PASS: reversed token-suit oracle 死神 1
+PASS: reversed shield/road oracle 死神 1
+PASS: reversed draw/hand oracle 死神 2
+PASS: reversed token-suit oracle 死神 2
+PASS: reversed shield/road oracle 死神 2
+PASS: reversed draw/hand oracle 节制 0
+PASS: reversed token-suit oracle 节制 0
+PASS: reversed shield/road oracle 节制 0
+PASS: reversed draw/hand oracle 节制 1
+PASS: reversed token-suit oracle 节制 1
+PASS: reversed shield/road oracle 节制 1
+PASS: reversed draw/hand oracle 节制 2
+PASS: reversed token-suit oracle 节制 2
+PASS: reversed shield/road oracle 节制 2
+PASS: reversed draw/hand oracle 恶魔 0
+PASS: reversed token-suit oracle 恶魔 0
+PASS: reversed shield/road oracle 恶魔 0
+PASS: reversed draw/hand oracle 恶魔 1
+PASS: reversed token-suit oracle 恶魔 1
+PASS: reversed shield/road oracle 恶魔 1
+PASS: reversed draw/hand oracle 恶魔 2
+PASS: reversed token-suit oracle 恶魔 2
+PASS: reversed shield/road oracle 恶魔 2
+PASS: reversed draw/hand oracle 高塔 0
+PASS: reversed token-suit oracle 高塔 0
+PASS: reversed shield/road oracle 高塔 0
+PASS: reversed draw/hand oracle 高塔 1
+PASS: reversed token-suit oracle 高塔 1
+PASS: reversed shield/road oracle 高塔 1
+PASS: reversed draw/hand oracle 高塔 2
+PASS: reversed token-suit oracle 高塔 2
+PASS: reversed shield/road oracle 高塔 2
+PASS: reversed draw/hand oracle 星星 0
+PASS: reversed token-suit oracle 星星 0
+PASS: reversed shield/road oracle 星星 0
+PASS: reversed draw/hand oracle 星星 1
+PASS: reversed token-suit oracle 星星 1
+PASS: reversed shield/road oracle 星星 1
+PASS: reversed draw/hand oracle 星星 2
+PASS: reversed token-suit oracle 星星 2
+PASS: reversed shield/road oracle 星星 2
+PASS: reversed draw/hand oracle 月亮 0
+PASS: reversed token-suit oracle 月亮 0
+PASS: reversed shield/road oracle 月亮 0
+PASS: reversed draw/hand oracle 月亮 1
+PASS: reversed token-suit oracle 月亮 1
+PASS: reversed shield/road oracle 月亮 1
+PASS: reversed draw/hand oracle 月亮 2
+PASS: reversed token-suit oracle 月亮 2
+PASS: reversed shield/road oracle 月亮 2
+PASS: reversed draw/hand oracle 太阳 0
+PASS: reversed token-suit oracle 太阳 0
+PASS: reversed shield/road oracle 太阳 0
+PASS: reversed draw/hand oracle 太阳 1
+PASS: reversed token-suit oracle 太阳 1
+PASS: reversed shield/road oracle 太阳 1
+PASS: reversed draw/hand oracle 太阳 2
+PASS: reversed token-suit oracle 太阳 2
+PASS: reversed shield/road oracle 太阳 2
+PASS: reversed draw/hand oracle 审判 0
+PASS: reversed token-suit oracle 审判 0
+PASS: reversed shield/road oracle 审判 0
+PASS: reversed draw/hand oracle 审判 1
+PASS: reversed token-suit oracle 审判 1
+PASS: reversed shield/road oracle 审判 1
+PASS: reversed draw/hand oracle 审判 2
+PASS: reversed token-suit oracle 审判 2
+PASS: reversed shield/road oracle 审判 2
+PASS: Magician C fills to three: net +1 resource, cycles card
+PASS: Magician fill respects existing mana
+PASS: Temperance C refund and two distinct tokens
+PASS: Hanged A pays retreat and grants two crystals plus cycle
+PASS: Hanged C retreat two, three crystals, draw two
+PASS: retreat ignores shield; terminal loss stops rewards
+PASS: terminal damage stops later token reward
+PASS: Strength C six damage less one shield, pays three swords
+PASS: Empress C optional four tokens pays for six damage
+PASS: Devil C consumes all three remaining crystals for seven
+PASS: mandatory discard rejected atomically
+PASS: Devil C rejects fixed payment leaving zero crystals
+PASS: Wheel B discard two draw four: net one hand card
+PASS: Devil C extra discard plus draw two keeps hand count
+PASS: Star A can use crystal
+PASS: Star A equal refund gains cup and consumes a card
+PASS: declare optional cost
+PASS: no payment before extra cost confirmation
+PASS: uncommitted card and cost choices private
+PASS: forged choice rejected atomically
+PASS: wrong choice owner rejected
+PASS: cancel uncommitted spell
+PASS: cancel restores untouched state
+PASS: Priestess begins private scry
+PASS: scry payload only in entitled snapshot
+PASS: opponent sees the committed card while waiting
+PASS: cannot cancel committed spell
+PASS: scry reorders and divides top from bottom
+PASS: scry order controls next draw; bottom preserved
+PASS: Moon C enters authorized hand inspection
+PASS: inspection list delivered only to caster
+PASS: hand inspection closes without permanent exposure
+PASS: Tower C demands opponent resource choice
+PASS: opponent selects destroyed tokens off turn
+PASS: caster retains turn after opponent choice
+PASS: Temperance resource generation
+PASS: overflow waits until complete card resolution
+PASS: overflow blocks ending turn
+PASS: owner discards down to thirteen
+PASS: resolving card cannot draw itself from empty zones
+PASS: Death C with no recovery targets
+PASS: resolving card cannot recover itself
+PASS: Sun C clears one shield before damage, tracks unblocked damage
+PASS: shield cap three
+PASS: shield persists through opponent turn
+PASS: shield expires at owner's next turn start
+PASS: Moon A applies confusion
+PASS: confusion supports mixed flip payment
+PASS: first generic flip consumes surcharge once
+PASS: Moon B spends newly gained cup, bypasses confusion and retains tax
+PASS: unused confusion expires at affected turn end
+PASS: Tower symmetric clear counts actual losses, sword cap three
+PASS: advantage checked before current damage
+PASS: existing advantage awards Emperor token
+PASS: Chariot prior actual damage plus optional sword
+PASS: Judgement four discard arcana plus one optional token
+PASS: Justice checks three-token deficit
+PASS: Hermit empty-hand condition excludes current card
+PASS: Sun no-flip bonus counts owner's flip actions
+PASS: Star completed draw setup discounts optional cup
+PASS: scry counts as preparation but not effect draw
+PASS: recovery is not effect draw
+PASS: Hierophant ritual sees earlier A and B; five damage minus shield
+PASS: complete v0.2 simulated match 0
+PASS: match 0 card conservation
+PASS: match 0 resource bounds
+PASS: complete v0.2 simulated match 1
+PASS: match 1 card conservation
+PASS: match 1 resource bounds
+PASS: complete v0.2 simulated match 2
+PASS: match 2 card conservation
+PASS: match 2 resource bounds
+PASS: complete v0.2 simulated match 3
+PASS: match 3 card conservation
+PASS: match 3 resource bounds
+PASS: complete v0.2 simulated match 4
+PASS: match 4 card conservation
+PASS: match 4 resource bounds
+PASS: complete v0.2 simulated match 5
+PASS: match 5 card conservation
+PASS: match 5 resource bounds
+PASS: complete v0.2 simulated match 6
+PASS: match 6 card conservation
+PASS: match 6 resource bounds
+PASS: complete v0.2 simulated match 7
+PASS: match 7 card conservation
+PASS: match 7 resource bounds
+PASS: complete v0.2 simulated match 8
+PASS: match 8 card conservation
+PASS: match 8 resource bounds
+PASS: complete v0.2 simulated match 9
+PASS: match 9 card conservation
+PASS: match 9 resource bounds
+PASS: complete v0.2 simulated match 10
+PASS: match 10 card conservation
+PASS: match 10 resource bounds
+PASS: complete v0.2 simulated match 11
+PASS: match 11 card conservation
+PASS: match 11 resource bounds
+PASS: complete v0.2 simulated match 12
+PASS: match 12 card conservation
+PASS: match 12 resource bounds
+PASS: complete v0.2 simulated match 13
+PASS: match 13 card conservation
+PASS: match 13 resource bounds
+PASS: complete v0.2 simulated match 14
+PASS: match 14 card conservation
+PASS: match 14 resource bounds
+PASS: complete v0.2 simulated match 15
+PASS: match 15 card conservation
+PASS: match 15 resource bounds
+PASS: complete v0.2 simulated match 16
+PASS: match 16 card conservation
+PASS: match 16 resource bounds
+PASS: complete v0.2 simulated match 17
+PASS: match 17 card conservation
+PASS: match 17 resource bounds
+PASS: complete v0.2 simulated match 18
+PASS: match 18 card conservation
+PASS: match 18 resource bounds
+PASS: complete v0.2 simulated match 19
+PASS: match 19 card conservation
+PASS: match 19 resource bounds
+PASS: complete v0.2 simulated match 20
+PASS: match 20 card conservation
+PASS: match 20 resource bounds
+PASS: complete v0.2 simulated match 21
+PASS: match 21 card conservation
+PASS: match 21 resource bounds
+PASS: complete v0.2 simulated match 22
+PASS: match 22 card conservation
+PASS: match 22 resource bounds
+PASS: complete v0.2 simulated match 23
+PASS: match 23 card conservation
+PASS: match 23 resource bounds
+PASS: complete v0.2 simulated match 24
+PASS: match 24 card conservation
+PASS: match 24 resource bounds
+PASS: complete v0.2 simulated match 25
+PASS: match 25 card conservation
+PASS: match 25 resource bounds
+PASS: complete v0.2 simulated match 26
+PASS: match 26 card conservation
+PASS: match 26 resource bounds
+PASS: complete v0.2 simulated match 27
+PASS: match 27 card conservation
+PASS: match 27 resource bounds
+PASS: complete v0.2 simulated match 28
+PASS: match 28 card conservation
+PASS: match 28 resource bounds
+PASS: complete v0.2 simulated match 29
+PASS: match 29 card conservation
+PASS: match 29 resource bounds
+PASS: complete v0.2 simulated match 30
+PASS: match 30 card conservation
+PASS: match 30 resource bounds
+PASS: complete v0.2 simulated match 31
+PASS: match 31 card conservation
+PASS: match 31 resource bounds
+PASS: complete v0.2 simulated match 32
+PASS: match 32 card conservation
+PASS: match 32 resource bounds
+PASS: complete v0.2 simulated match 33
+PASS: match 33 card conservation
+PASS: match 33 resource bounds
+PASS: complete v0.2 simulated match 34
+PASS: match 34 card conservation
+PASS: match 34 resource bounds
+PASS: TCP protocol v3 handshake
+PASS: TCP authorized private scry request and response
+PASS: TCP full effect snapshots hide other hand
+PASS: TCP choice resolves authoritative draw
+PASS: TCP disconnect detected
+PASS: wrong room code rejected
+TOTAL: 1538 passed; 252 face scenarios; 12643 complete-match actions.

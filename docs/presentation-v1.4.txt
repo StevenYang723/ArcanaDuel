@@ -1,0 +1,197 @@
+PASS: home ambience is loaded below interactive controls
+PASS: all home entry points remain available
+PASS: animated home art does not intercept primary button
+PASS: home starfield and floating-card clock advances
+PASS: motion toggle freezes scene and stops idle redraws
+PASS: home motion can resume
+PASS: minimized window suspends ambient animation
+PASS: home host entry opens room setup
+PASS: home join entry opens connection setup
+PASS: home library opens all arcana
+PASS: home guide remains accessible
+PASS: home local two-player entry starts draft
+PASS: home solo entry starts draft
+PASS: battle ambience runs without mutating game or selected payment
+PASS: battle menu motion toggle preserves payment selection
+PASS: rerendering uses one ambient layer per window
+PASS: draft hit areas
+PASS: draft confirmation advances operator
+PASS: horizontal hand receives input
+PASS: cast animation holds old visible state
+PASS: damage and token steps settle after animation
+PASS: generic flip animates
+PASS: flip changes relative orientation
+PASS: large current-face preview
+PASS: selected three mana preserves crystals for Devil extra cost
+PASS: optional-cost overlay precedes payment
+PASS: extra-cost buttons execute six-damage Strength core
+PASS: private scry opens after cast presentation
+PASS: unresolved card stays on altar outside discard
+PASS: small scry selection remains side by side without vertical overflow
+PASS: scry UI order and top-count drive authoritative draw
+PASS: authorized peek uses temporary inspect overlay
+PASS: inspection clears after acknowledgement
+PASS: test mode switches to opponent token-loss choice
+PASS: test mode returns to caster after off-turn choice
+PASS: overflow overlay waits for whole card
+PASS: overflow choice resumes turn
+PASS: new snapshot queues behind current animation
+PASS: queue drains without losing operator change
+PASS: both client views animate before settlement
+PASS: both clients finish with mirrored road positions
+PASS: both client presentations retain hidden hands
+PASS: R is not intercepted without an active card preview
+PASS: no selection cannot spend automatically
+PASS: scene resource is a real clickable hit target
+PASS: click resources selects exact 2 mana plus 1 crystal without spending
+PASS: click selected resource again cancels only that resource
+PASS: underpayment retains selection and card
+PASS: overpayment never silently chooses a cheaper subset
+PASS: right-click hand opens interactive card preview
+PASS: other-face preview leaves orientation resources and selected payment unchanged
+PASS: preview toggles back independently
+PASS: hover R previews opposite effect without a game action
+PASS: selected 2 mana plus 1 crystal pays a 3 cost mixed card without payment dialog
+PASS: previewing reverse does not change cast effect; successful play clears selection
+PASS: spent mana cannot be selected
+PASS: unavailable resource cannot enter selection
+PASS: mana-only card rejects crystals in selection
+PASS: mana-only card accepts exact mana selection
+PASS: crystal-only card rejects mana in selection
+PASS: crystal-only card consumes only selected crystals
+PASS: discard card opens preview in owner's actual reverse orientation
+PASS: discard preview returns to discard browser
+PASS: selected mixed payment still offers extra card cost
+PASS: cancel extra cost does not spend selected payment
+PASS: test-mode view switch clears former player's payment selection
+PASS: off-turn resource selection is blocked
+PASS: turn changes clear local selection
+PASS: orientation change also requires selected payment
+PASS: orientation change consumes the selected resource
+PASS: card text fits: 第一步 up
+PASS: card text fits: 第一步 reversed
+PASS: card text fits: 轻装远行 up
+PASS: card text fits: 轻装远行 reversed
+PASS: card text fits: 零之可能 up
+PASS: card text fits: 零之可能 reversed
+PASS: card text fits: 点火 up
+PASS: card text fits: 点火 reversed
+PASS: card text fits: 巧手戏法 up
+PASS: card text fits: 巧手戏法 reversed
+PASS: card text fits: 万象之手 up
+PASS: card text fits: 万象之手 reversed
+PASS: card text fits: 帷幕一瞥 up
+PASS: card text fits: 帷幕一瞥 reversed
+PASS: card text fits: 银月之书 up
+PASS: card text fits: 银月之书 reversed
+PASS: card text fits: 隐秘启示 up
+PASS: card text fits: 隐秘启示 reversed
+PASS: card text fits: 萌芽 up
+PASS: card text fits: 萌芽 reversed
+PASS: card text fits: 丰饶庭园 up
+PASS: card text fits: 丰饶庭园 reversed
+PASS: card text fits: 母神丰收 up
+PASS: card text fits: 母神丰收 reversed
+PASS: card text fits: 王令 up
+PASS: card text fits: 王令 reversed
+PASS: card text fits: 铁律疆界 up
+PASS: card text fits: 铁律疆界 reversed
+PASS: card text fits: 不动王座 up
+PASS: card text fits: 不动王座 reversed
+PASS: card text fits: 诵经 up
+PASS: card text fits: 诵经 reversed
+PASS: card text fits: 传承 up
+PASS: card text fits: 传承 reversed
+PASS: card text fits: 三重圣仪 up
+PASS: card text fits: 三重圣仪 reversed
+PASS: card text fits: 相遇 up
+PASS: card text fits: 相遇 reversed
+PASS: card text fits: 交织 up
+PASS: card text fits: 交织 reversed
+PASS: card text fits: 命运共鸣 up
+PASS: card text fits: 命运共鸣 reversed
+PASS: card text fits: 起跑 up
+PASS: card text fits: 起跑 reversed
+PASS: card text fits: 突阵 up
+PASS: card text fits: 突阵 reversed
+PASS: card text fits: 凯旋冲锋 up
+PASS: card text fits: 凯旋冲锋 reversed
+PASS: card text fits: 狮心 up
+PASS: card text fits: 狮心 reversed
+PASS: card text fits: 驯服 up
+PASS: card text fits: 驯服 reversed
+PASS: card text fits: 温柔的暴力 up
+PASS: card text fits: 温柔的暴力 reversed
+PASS: card text fits: 提灯 up
+PASS: card text fits: 提灯 reversed
+PASS: card text fits: 独行 up
+PASS: card text fits: 独行 reversed
+PASS: card text fits: 灯尽见真 up
+PASS: card text fits: 灯尽见真 reversed
+PASS: card text fits: 一次转动 up
+PASS: card text fits: 一次转动 reversed
+PASS: card text fits: 潮起潮落 up
+PASS: card text fits: 潮起潮落 reversed
+PASS: card text fits: 命运重掷 up
+PASS: card text fits: 命运重掷 reversed
+PASS: card text fits: 天平 up
+PASS: card text fits: 天平 reversed
+PASS: card text fits: 公正之刃 up
+PASS: card text fits: 公正之刃 reversed
+PASS: card text fits: 等价裁决 up
+PASS: card text fits: 等价裁决 reversed
+PASS: card text fits: 逆向凝视 up
+PASS: card text fits: 逆向凝视 reversed
+PASS: card text fits: 自愿悬停 up
+PASS: card text fits: 自愿悬停 reversed
+PASS: card text fits: 献祭换位 up
+PASS: card text fits: 献祭换位 reversed
+PASS: card text fits: 凋零 up
+PASS: card text fits: 凋零 reversed
+PASS: card text fits: 白蔷薇 up
+PASS: card text fits: 白蔷薇 reversed
+PASS: card text fits: 死而复生 up
+PASS: card text fits: 死而复生 reversed
+PASS: card text fits: 双杯调和 up
+PASS: card text fits: 双杯调和 reversed
+PASS: card text fits: 等量交换 up
+PASS: card text fits: 等量交换 reversed
+PASS: card text fits: 完美比例 up
+PASS: card text fits: 完美比例 reversed
+PASS: card text fits: 甜蜜契约 up
+PASS: card text fits: 甜蜜契约 reversed
+PASS: card text fits: 贪欲 up
+PASS: card text fits: 贪欲 reversed
+PASS: card text fits: 灵魂抵押 up
+PASS: card text fits: 灵魂抵押 reversed
+PASS: card text fits: 裂痕 up
+PASS: card text fits: 裂痕 reversed
+PASS: card text fits: 落雷 up
+PASS: card text fits: 落雷 reversed
+PASS: card text fits: 巴别崩塌 up
+PASS: card text fits: 巴别崩塌 reversed
+PASS: card text fits: 微光 up
+PASS: card text fits: 微光 reversed
+PASS: card text fits: 星图 up
+PASS: card text fits: 星图 reversed
+PASS: card text fits: 群星回应 up
+PASS: card text fits: 群星回应 reversed
+PASS: card text fits: 疑影 up
+PASS: card text fits: 疑影 reversed
+PASS: card text fits: 镜中路 up
+PASS: card text fits: 镜中路 reversed
+PASS: card text fits: 月蚀 up
+PASS: card text fits: 月蚀 reversed
+PASS: card text fits: 晨曦 up
+PASS: card text fits: 晨曦 reversed
+PASS: card text fits: 烈阳 up
+PASS: card text fits: 烈阳 reversed
+PASS: card text fits: 正午 up
+PASS: card text fits: 正午 reversed
+PASS: card text fits: 召声 up
+PASS: card text fits: 召声 reversed
+PASS: card text fits: 旧日回音 up
+PASS: card text fits: 旧日回音 reversed
+PASS: card text fits: 最终审判 up
+PASS: card text fits: 最终审判 reversed
+TOTAL: 196 passed
